@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/become/Controller.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/become/CrawlerParameters.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/become/Mycrawler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/Configurable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/CrawlController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/Page.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/crawler/WebCrawler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/CustomFetchStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/IdleConnectionMonitorThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetchResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/fetcher/PageFetcher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/frontier/Counters.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/frontier/DocIDServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/frontier/Frontier.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/frontier/InProcessPagesDB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/frontier/WebURLTupleBinding.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/frontier/WorkQueues.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/BinaryParseData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/ExtractedUrlAnchorPair.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/HtmlContentHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/HtmlParseData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/ParseData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/Parser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/parser/TextParseData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/HostDirectives.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RobotstxtServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/robotstxt/RuleSet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/TLDList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/URLCanonicalizer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/UrlResolver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/url/WebURL.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/util/IO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/uci/ics/crawler4j/util/Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/tld-names.txt" charset="UTF-8" />
+  </component>
+</project>
+
